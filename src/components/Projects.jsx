@@ -1,6 +1,6 @@
 import { FaExternalLinkAlt, FaGithub } from 'react-icons/fa'
 import './Projects.css'
-import learnifyImage from '../image/Learnify.png'
+import learnifyImage from '../image/learnify.png'
 import adviceImage from '../image/advice.png'
 import clock from '../image/clock.png'
 import form from '../image/form.png'
@@ -95,3 +95,4 @@ const Projects = () => {
 }
 
 export default Projects
+
